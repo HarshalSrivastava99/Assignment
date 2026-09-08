@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HarshalSrivastava99/Assignment/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/HarshalSrivastava99/Assignment/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/HarshalSrivastava99/Assignment/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0137-single-number-ii) |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0137-single-number-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/HarshalSrivastava99/Assignment/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
