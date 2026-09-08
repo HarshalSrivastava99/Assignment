@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/HarshalSrivastava99/Assignment/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/HarshalSrivastava99/Assignment/tree/master/0075-sort-colors) |
+| [0137-single-number-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0137-single-number-ii) |
 | [0324-wiggle-sort-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0324-wiggle-sort-ii) |
 ## Two Pointers
 |  |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0324-wiggle-sort-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
