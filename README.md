@@ -9,17 +9,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/HarshalSrivastava99/Assignment/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0137-single-number-ii) |
 | [0324-wiggle-sort-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0324-wiggle-sort-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/HarshalSrivastava99/Assignment/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/HarshalSrivastava99/Assignment/tree/master/0075-sort-colors) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/HarshalSrivastava99/Assignment/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/HarshalSrivastava99/Assignment/tree/master/0075-sort-colors) |
 | [0324-wiggle-sort-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0324-wiggle-sort-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Quicksort
 |  |
 | ------- |
@@ -49,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HarshalSrivastava99/Assignment/tree/master/0001-two-sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -67,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/HarshalSrivastava99/Assignment/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
