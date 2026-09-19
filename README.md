@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0137-single-number-ii) |
 | [0324-wiggle-sort-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0324-wiggle-sort-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/HarshalSrivastava99/Assignment/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0766-toeplitz-matrix](https://github.com/HarshalSrivastava99/Assignment/tree/master/0766-toeplitz-matrix) |
 ## Two Pointers
 |  |
