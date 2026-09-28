@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/HarshalSrivastava99/Assignment/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0766-toeplitz-matrix](https://github.com/HarshalSrivastava99/Assignment/tree/master/0766-toeplitz-matrix) |
+| [0912-sort-an-array](https://github.com/HarshalSrivastava99/Assignment/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/HarshalSrivastava99/Assignment/tree/master/0075-sort-colors) |
 | [0324-wiggle-sort-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0324-wiggle-sort-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0912-sort-an-array](https://github.com/HarshalSrivastava99/Assignment/tree/master/0912-sort-an-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0324-wiggle-sort-ii) |
+| [0912-sort-an-array](https://github.com/HarshalSrivastava99/Assignment/tree/master/0912-sort-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -108,4 +111,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/HarshalSrivastava99/Assignment/tree/master/0278-first-bad-version) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/HarshalSrivastava99/Assignment/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/HarshalSrivastava99/Assignment/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/HarshalSrivastava99/Assignment/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/HarshalSrivastava99/Assignment/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/HarshalSrivastava99/Assignment/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
