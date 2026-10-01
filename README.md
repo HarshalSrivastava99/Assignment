@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/HarshalSrivastava99/Assignment/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/HarshalSrivastava99/Assignment/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/HarshalSrivastava99/Assignment/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/HarshalSrivastava99/Assignment/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/HarshalSrivastava99/Assignment/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshalSrivastava99/Assignment/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0137-single-number-ii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/HarshalSrivastava99/Assignment/tree/master/0053-maximum-subarray) |
 | [0324-wiggle-sort-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0324-wiggle-sort-ii) |
 | [0912-sort-an-array](https://github.com/HarshalSrivastava99/Assignment/tree/master/0912-sort-an-array) |
 ## Greedy
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HarshalSrivastava99/Assignment/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/HarshalSrivastava99/Assignment/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshalSrivastava99/Assignment/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/HarshalSrivastava99/Assignment/tree/master/0509-fibonacci-number) |
 ## Recursion
