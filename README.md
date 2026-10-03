@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/HarshalSrivastava99/Assignment/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/HarshalSrivastava99/Assignment/tree/master/0796-rotate-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HarshalSrivastava99/Assignment/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Stack
 |  |
@@ -139,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/HarshalSrivastava99/Assignment/tree/master/0912-sort-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/HarshalSrivastava99/Assignment/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
