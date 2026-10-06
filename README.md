@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/HarshalSrivastava99/Assignment/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/HarshalSrivastava99/Assignment/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/HarshalSrivastava99/Assignment/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0142-linked-list-cycle-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0680-valid-palindrome-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/HarshalSrivastava99/Assignment/tree/master/0876-middle-of-the-linked-list) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/HarshalSrivastava99/Assignment/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/HarshalSrivastava99/Assignment/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0142-linked-list-cycle-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HarshalSrivastava99/Assignment/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
@@ -158,10 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/HarshalSrivastava99/Assignment/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/HarshalSrivastava99/Assignment/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/HarshalSrivastava99/Assignment/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/HarshalSrivastava99/Assignment/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
