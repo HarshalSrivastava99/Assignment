@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/HarshalSrivastava99/Assignment/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/HarshalSrivastava99/Assignment/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/HarshalSrivastava99/Assignment/tree/master/0509-fibonacci-number) |
+| [1688-count-of-matches-in-tournament](https://github.com/HarshalSrivastava99/Assignment/tree/master/1688-count-of-matches-in-tournament) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -168,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/HarshalSrivastava99/Assignment/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0142-linked-list-cycle-ii) |
+## Simulation
+|  |
+| ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/HarshalSrivastava99/Assignment/tree/master/1688-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
