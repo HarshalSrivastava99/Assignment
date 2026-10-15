@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/HarshalSrivastava99/Assignment/tree/master/0011-container-with-most-water) |
 | [0324-wiggle-sort-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0324-wiggle-sort-ii) |
 | [0680-valid-palindrome-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/HarshalSrivastava99/Assignment/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Quickselect
 |  |
 | ------- |
@@ -115,12 +116,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/HarshalSrivastava99/Assignment/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/HarshalSrivastava99/Assignment/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/HarshalSrivastava99/Assignment/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HarshalSrivastava99/Assignment/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HarshalSrivastava99/Assignment/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/HarshalSrivastava99/Assignment/tree/master/0042-trapping-rain-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/HarshalSrivastava99/Assignment/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HarshalSrivastava99/Assignment/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/HarshalSrivastava99/Assignment/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Linked List
 |  |
 | ------- |
