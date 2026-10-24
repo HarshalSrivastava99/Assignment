@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/HarshalSrivastava99/Assignment/tree/master/0496-next-greater-element-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/HarshalSrivastava99/Assignment/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0739-daily-temperatures](https://github.com/HarshalSrivastava99/Assignment/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/HarshalSrivastava99/Assignment/tree/master/0766-toeplitz-matrix) |
 | [0912-sort-an-array](https://github.com/HarshalSrivastava99/Assignment/tree/master/0912-sort-an-array) |
 ## Two Pointers
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/HarshalSrivastava99/Assignment/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HarshalSrivastava99/Assignment/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/HarshalSrivastava99/Assignment/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/HarshalSrivastava99/Assignment/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HarshalSrivastava99/Assignment/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/HarshalSrivastava99/Assignment/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/HarshalSrivastava99/Assignment/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HarshalSrivastava99/Assignment/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/HarshalSrivastava99/Assignment/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/HarshalSrivastava99/Assignment/tree/master/0739-daily-temperatures) |
 ## Matrix
 |  |
 | ------- |
