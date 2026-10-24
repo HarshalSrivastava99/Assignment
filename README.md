@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/HarshalSrivastava99/Assignment/tree/master/0011-container-with-most-water) |
 | [0324-wiggle-sort-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0324-wiggle-sort-ii) |
+| [0649-dota2-senate](https://github.com/HarshalSrivastava99/Assignment/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HarshalSrivastava99/Assignment/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Quickselect
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/HarshalSrivastava99/Assignment/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/HarshalSrivastava99/Assignment/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/HarshalSrivastava99/Assignment/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/HarshalSrivastava99/Assignment/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/HarshalSrivastava99/Assignment/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HarshalSrivastava99/Assignment/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/HarshalSrivastava99/Assignment/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/HarshalSrivastava99/Assignment/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/HarshalSrivastava99/Assignment/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/HarshalSrivastava99/Assignment/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/HarshalSrivastava99/Assignment/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
