@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/HarshalSrivastava99/Assignment/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/HarshalSrivastava99/Assignment/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HarshalSrivastava99/Assignment/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/HarshalSrivastava99/Assignment/tree/master/0390-elimination-game) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/HarshalSrivastava99/Assignment/tree/master/0509-fibonacci-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/HarshalSrivastava99/Assignment/tree/master/1688-count-of-matches-in-tournament) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/HarshalSrivastava99/Assignment/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/HarshalSrivastava99/Assignment/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HarshalSrivastava99/Assignment/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/HarshalSrivastava99/Assignment/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/HarshalSrivastava99/Assignment/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
