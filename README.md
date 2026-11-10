@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/HarshalSrivastava99/Assignment/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/HarshalSrivastava99/Assignment/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/HarshalSrivastava99/Assignment/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/HarshalSrivastava99/Assignment/tree/master/0326-power-of-three) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/HarshalSrivastava99/Assignment/tree/master/0509-fibonacci-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/HarshalSrivastava99/Assignment/tree/master/1688-count-of-matches-in-tournament) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/HarshalSrivastava99/Assignment/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/HarshalSrivastava99/Assignment/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/HarshalSrivastava99/Assignment/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/HarshalSrivastava99/Assignment/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/HarshalSrivastava99/Assignment/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
