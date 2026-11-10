@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/HarshalSrivastava99/Assignment/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HarshalSrivastava99/Assignment/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/HarshalSrivastava99/Assignment/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/HarshalSrivastava99/Assignment/tree/master/0263-ugly-number) |
