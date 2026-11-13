@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/HarshalSrivastava99/Assignment/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/HarshalSrivastava99/Assignment/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/HarshalSrivastava99/Assignment/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/HarshalSrivastava99/Assignment/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/HarshalSrivastava99/Assignment/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/HarshalSrivastava99/Assignment/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/HarshalSrivastava99/Assignment/tree/master/0075-sort-colors) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/HarshalSrivastava99/Assignment/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/HarshalSrivastava99/Assignment/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/HarshalSrivastava99/Assignment/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/HarshalSrivastava99/Assignment/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/HarshalSrivastava99/Assignment/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/HarshalSrivastava99/Assignment/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/HarshalSrivastava99/Assignment/tree/master/0125-valid-palindrome) |
