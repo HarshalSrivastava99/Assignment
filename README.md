@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/HarshalSrivastava99/Assignment/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/HarshalSrivastava99/Assignment/tree/master/0766-toeplitz-matrix) |
 | [0912-sort-an-array](https://github.com/HarshalSrivastava99/Assignment/tree/master/0912-sort-an-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/HarshalSrivastava99/Assignment/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Two Pointers
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/HarshalSrivastava99/Assignment/tree/master/0509-fibonacci-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/HarshalSrivastava99/Assignment/tree/master/1688-count-of-matches-in-tournament) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/HarshalSrivastava99/Assignment/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/HarshalSrivastava99/Assignment/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HarshalSrivastava99/Assignment/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/HarshalSrivastava99/Assignment/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/HarshalSrivastava99/Assignment/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Design
 |  |
 | ------- |
@@ -276,4 +279,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HarshalSrivastava99/Assignment/tree/master/0005-longest-palindromic-substring) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/HarshalSrivastava99/Assignment/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/HarshalSrivastava99/Assignment/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
