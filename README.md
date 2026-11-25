@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/HarshalSrivastava99/Assignment/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/HarshalSrivastava99/Assignment/tree/master/0766-toeplitz-matrix) |
 | [0912-sort-an-array](https://github.com/HarshalSrivastava99/Assignment/tree/master/0912-sort-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/HarshalSrivastava99/Assignment/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/HarshalSrivastava99/Assignment/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Two Pointers
 |  |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/HarshalSrivastava99/Assignment/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/HarshalSrivastava99/Assignment/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
