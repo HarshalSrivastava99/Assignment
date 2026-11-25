@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/HarshalSrivastava99/Assignment/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/HarshalSrivastava99/Assignment/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/HarshalSrivastava99/Assignment/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/HarshalSrivastava99/Assignment/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HarshalSrivastava99/Assignment/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HarshalSrivastava99/Assignment/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshalSrivastava99/Assignment/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/HarshalSrivastava99/Assignment/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/HarshalSrivastava99/Assignment/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/HarshalSrivastava99/Assignment/tree/master/0342-power-of-four) |
@@ -292,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/HarshalSrivastava99/Assignment/tree/master/3411-maximum-subarray-with-equal-products) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/HarshalSrivastava99/Assignment/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
