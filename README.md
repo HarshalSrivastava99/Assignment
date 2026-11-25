@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/HarshalSrivastava99/Assignment/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0633-sum-of-square-numbers](https://github.com/HarshalSrivastava99/Assignment/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/HarshalSrivastava99/Assignment/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/HarshalSrivastava99/Assignment/tree/master/0390-elimination-game) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/HarshalSrivastava99/Assignment/tree/master/0509-fibonacci-number) |
+| [0633-sum-of-square-numbers](https://github.com/HarshalSrivastava99/Assignment/tree/master/0633-sum-of-square-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/HarshalSrivastava99/Assignment/tree/master/1688-count-of-matches-in-tournament) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/HarshalSrivastava99/Assignment/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Dynamic Programming
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/HarshalSrivastava99/Assignment/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarshalSrivastava99/Assignment/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0633-sum-of-square-numbers](https://github.com/HarshalSrivastava99/Assignment/tree/master/0633-sum-of-square-numbers) |
 ## String
 |  |
 | ------- |
