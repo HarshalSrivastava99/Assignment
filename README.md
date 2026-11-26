@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/HarshalSrivastava99/Assignment/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/HarshalSrivastava99/Assignment/tree/master/0633-sum-of-square-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/HarshalSrivastava99/Assignment/tree/master/1688-count-of-matches-in-tournament) |
+| [3360-stone-removal-game](https://github.com/HarshalSrivastava99/Assignment/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/HarshalSrivastava99/Assignment/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Dynamic Programming
 |  |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/HarshalSrivastava99/Assignment/tree/master/1688-count-of-matches-in-tournament) |
+| [3360-stone-removal-game](https://github.com/HarshalSrivastava99/Assignment/tree/master/3360-stone-removal-game) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
